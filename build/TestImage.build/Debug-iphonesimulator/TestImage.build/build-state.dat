@@ -1,0 +1,948 @@
+TTestImage
+v6
+r1
+cCheck dependencies
+cProcessPCH /var/folders/60/9x6_wf910nz0br0kg3s424k40000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestImage-Prefix-dltfjcszlrwtlebeivnvdynncrth/TestImage-Prefix.pch.pch TestImage/TestImage-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TestImage.build/Debug-iphonesimulator/TestImage.build/Objects-normal/x86_64/AppDelegate.o /Users/user/Desktop/Desktop/WorkSpace/TestImage/TestImage/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TestImage.build/Debug-iphonesimulator/TestImage.build/Objects-normal/x86_64/CommonDeal.o /Users/user/Desktop/Desktop/WorkSpace/TestImage/Classes/Common/CommonDeal.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TestImage.build/Debug-iphonesimulator/TestImage.build/Objects-normal/x86_64/UIImage+Fuzzy.o /Users/user/Desktop/Desktop/WorkSpace/TestImage/Classes/Common/UIImage+Fuzzy.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TestImage.build/Debug-iphonesimulator/TestImage.build/Objects-normal/x86_64/MainViewController.o /Users/user/Desktop/Desktop/WorkSpace/TestImage/Classes/Controllers/MainViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TestImage.build/Debug-iphonesimulator/TestImage.build/Objects-normal/x86_64/main.o /Users/user/Desktop/Desktop/WorkSpace/TestImage/TestImage/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TestImage.build/Debug-iphonesimulator/TestImage.build/Objects-normal/x86_64/MainView.o /Users/user/Desktop/Desktop/WorkSpace/TestImage/Classes/Views/MainView.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/user/Desktop/Desktop/WorkSpace/TestImage/build/Debug-iphonesimulator/TestImage.app/TestImage normal x86_64
+cCopyStringsFile /Users/user/Desktop/Desktop/WorkSpace/TestImage/build/Debug-iphonesimulator/TestImage.app/en.lproj/InfoPlist.strings TestImage/en.lproj/InfoPlist.strings
+cCpResource Resource/Images/banner\ 06@2x.png build/Debug-iphonesimulator/TestImage.app/banner\ 06@2x.png
+cCpResource Resource/Images/banner\ 02@2x.png build/Debug-iphonesimulator/TestImage.app/banner\ 02@2x.png
+cCpResource Resource/Images/banner\ 01@2x.png build/Debug-iphonesimulator/TestImage.app/banner\ 01@2x.png
+cCpResource Resource/Images/banner\ 05@2x.png build/Debug-iphonesimulator/TestImage.app/banner\ 05@2x.png
+cCpResource Resource/Images/banner\ 04@2x.png build/Debug-iphonesimulator/TestImage.app/banner\ 04@2x.png
+cCpResource Resource/Images/banner\ 03@2x.png build/Debug-iphonesimulator/TestImage.app/banner\ 03@2x.png
+cCpResource Resource/Images/example.png build/Debug-iphonesimulator/TestImage.app/example.png
+cCompileAssetCatalog /Users/user/Desktop/Desktop/WorkSpace/TestImage/build/Debug-iphonesimulator/TestImage.app /Users/user/Desktop/Desktop/WorkSpace/TestImage/TestImage/Images.xcassets
+cProcessInfoPlistFile /Users/user/Desktop/Desktop/WorkSpace/TestImage/build/Debug-iphonesimulator/TestImage.app/Info.plist /Users/user/Desktop/Desktop/WorkSpace/TestImage/TestImage/TestImage-Info.plist
+cGenerateDSYMFile /Users/user/Desktop/Desktop/WorkSpace/TestImage/build/Debug-iphonesimulator/TestImage.app.dSYM /Users/user/Desktop/Desktop/WorkSpace/TestImage/build/Debug-iphonesimulator/TestImage.app/TestImage
+cTouch /Users/user/Desktop/Desktop/WorkSpace/TestImage/build/Debug-iphonesimulator/TestImage.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c0000000053119F8A0000000000000198
+t1393663882
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c00000000533B9F9C00000000000003B4
+t1396416412
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000533B9FA9000000000000019E
+t1396416425
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Accelerate.framework/Accelerate
+c00000000533B9FAA00000000000085D0
+t1396416426
+s34256
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Accelerate.framework/Frameworks/vImage.framework/vImage
+c00000000533B9FAA00000000005CD080
+t1396416426
+s6082688
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Accelerate.framework/Frameworks/vecLib.framework/libBLAS.dylib
+c00000000533B9FAA0000000000304DA0
+t1396416426
+s3165600
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Accelerate.framework/Frameworks/vecLib.framework/libLAPACK.dylib
+c00000000533B9FAB0000000000837DB0
+t1396416427
+s8617392
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Accelerate.framework/Frameworks/vecLib.framework/libvDSP.dylib
+c00000000533B9FAA00000000001BE720
+t1396416426
+s1828640
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Accelerate.framework/Frameworks/vecLib.framework/libvMisc.dylib
+c00000000533B9FAA00000000001335C0
+t1396416426
+s1258944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Accelerate.framework/Frameworks/vecLib.framework/vecLib
+c00000000533B9FAA0000000000008630
+t1396416426
+s34352
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c00000000533B9FAC000000000058E0E0
+t1396416428
+s5824736
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c00000000533B9FAC00000000005B82F0
+t1396416428
+s5997296
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000533B9FAC0000000000446820
+t1396416428
+s4483104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+c00000000533B9FAD00000000003599D0
+t1396416429
+s3512784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+c00000000533B9FAD00000000002FC3B0
+t1396416429
+s3130288
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c00000000533B9FAD000000000004B000
+t1396416429
+s307200
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000533B9FAE000000000088D8C0
+t1396416430
+s8968384
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c00000000533B9FB10000000000037680
+t1396416433
+s226944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c00000000533B9FB2000000000048F720
+t1396416434
+s4781856
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+c00000000533B9FB2000000000013FD70
+t1396416434
+s1310064
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000533B9FB50000000001F1DE10
+t1396416437
+s32628240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+c00000000533B9FCB00000000002BC360
+t1396416459
+s2868064
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+c00000000533B9FD90000000000002338
+t1396416473
+s9016
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+c00000000533B9FDA000000000008D370
+t1396416474
+s578416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+c00000000533B9FDA0000000000392E20
+t1396416474
+s3747360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+c0000000051F11C7E00000000000121D0
+t1374755966
+s74192
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+c00000000533B9FDA0000000000014A80
+t1396416474
+s84608
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+c00000000533B9FDA0000000000033BA0
+t1396416474
+s211872
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+c00000000533B9FDA000000000001CFB0
+t1396416474
+s118704
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+c00000000533B9FDA000000000001B2B0
+t1396416474
+s111280
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+c00000000533B9FDA00000000000C9570
+t1396416474
+s824688
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+c00000000533B9FDA0000000000063280
+t1396416474
+s406144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+c00000000533B9FDA0000000000008880
+t1396416474
+s34944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+c00000000533B9FDA0000000000015080
+t1396416474
+s86144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+c00000000533B9FDA00000000000230F0
+t1396416474
+s143600
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+c00000000533B9FDA000000000000E380
+t1396416474
+s58240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+c00000000533B9FDA0000000000089380
+t1396416474
+s562048
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+c00000000533B9FDA0000000000017320
+t1396416474
+s95008
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+c00000000533B9FDA0000000000039CD0
+t1396416474
+s236752
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+c00000000533B9FDA000000000000B0B0
+t1396416474
+s45232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+c00000000533B9FDA0000000000167E80
+t1396416474
+s1474176
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+c00000000533B9FDA00000000000106A0
+t1396416474
+s67232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+c00000000533B9FDA000000000001CE40
+t1396416474
+s118336
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+c00000000533B9FDA00000000000740C0
+t1396416474
+s475328
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+c00000000533B9FDA000000000006CA60
+t1396416474
+s445024
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+c00000000533B9FDA000000000001BAD0
+t1396416474
+s113360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+c00000000533B9FDA0000000000084A20
+t1396416474
+s543264
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/arc/libarclite_iphonesimulator.a
+c00000000533B9F77000000000000BB48
+t1396416375
+s47944
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000533B6DFC0000000000000ADC
+t1396403708
+s2780
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+c00000000533B9F79000000000000514C
+t1396416377
+s20812
+
+N/Users/user/Desktop/Desktop/WorkSpace/TestImage/Classes/Common/CommonDeal.h
+c0000000053A3FC8F00000000000007C1
+t1403255951
+s1985
+
+N/Users/user/Desktop/Desktop/WorkSpace/TestImage/Classes/Common/CommonDeal.m
+c0000000053A3FC7E00000000000000BA
+t1403255934
+s186
+
+N/Users/user/Desktop/Desktop/WorkSpace/TestImage/Classes/Common/UIImage+Fuzzy.h
+c0000000052B2CF100000000000000180
+t1387450128
+s384
+
+N/Users/user/Desktop/Desktop/WorkSpace/TestImage/Classes/Common/UIImage+Fuzzy.m
+c0000000052B2CF230000000000001124
+t1387450147
+s4388
+
+N/Users/user/Desktop/Desktop/WorkSpace/TestImage/Classes/Controllers/MainViewController.h
+c0000000052A91D4300000000000000DA
+t1386814787
+s218
+
+N/Users/user/Desktop/Desktop/WorkSpace/TestImage/Classes/Controllers/MainViewController.m
+c0000000053A3FCA80000000000000447
+t1403255976
+s1095
+
+N/Users/user/Desktop/Desktop/WorkSpace/TestImage/Classes/Views/MainView.h
+c0000000052A91D4D00000000000000BC
+t1386814797
+s188
+
+N/Users/user/Desktop/Desktop/WorkSpace/TestImage/Classes/Views/MainView.m
+c0000000053A3FDE60000000000000935
+t1403256294
+s2357
+
+N/Users/user/Desktop/Desktop/WorkSpace/TestImage/Resource/Images/banner 01@2x.png
+c0000000052A70F810000000000036CC5
+t1386680193
+s224453
+
+N/Users/user/Desktop/Desktop/WorkSpace/TestImage/Resource/Images/banner 02@2x.png
+c0000000052A70F810000000000043A3C
+t1386680193
+s277052
+
+N/Users/user/Desktop/Desktop/WorkSpace/TestImage/Resource/Images/banner 03@2x.png
+c0000000052A70F8100000000000409BA
+t1386680193
+s264634
+
+N/Users/user/Desktop/Desktop/WorkSpace/TestImage/Resource/Images/banner 04@2x.png
+c0000000052A70F810000000000029BDC
+t1386680193
+s170972
+
+N/Users/user/Desktop/Desktop/WorkSpace/TestImage/Resource/Images/banner 05@2x.png
+c0000000052A70F81000000000002F590
+t1386680193
+s193936
+
+N/Users/user/Desktop/Desktop/WorkSpace/TestImage/Resource/Images/banner 06@2x.png
+c0000000052A70F810000000000030A87
+t1386680193
+s199303
+
+N/Users/user/Desktop/Desktop/WorkSpace/TestImage/Resource/Images/example.png
+c0000000053A3FDBD0000000000096C8D
+t1403256253
+s617613
+
+N/Users/user/Desktop/Desktop/WorkSpace/TestImage/TestImage/AppDelegate.h
+c0000000052A91DDB0000000000000172
+t1386814939
+s370
+
+N/Users/user/Desktop/Desktop/WorkSpace/TestImage/TestImage/AppDelegate.m
+c0000000052A91E2A0000000000000979
+t1386815018
+s2425
+
+N/Users/user/Desktop/Desktop/WorkSpace/TestImage/TestImage/Images.xcassets
+c0000000052A91CBB0000000000000088
+t1386814651
+s136
+
+N/Users/user/Desktop/Desktop/WorkSpace/TestImage/TestImage/TestImage-Info.plist
+c0000000052A91CBB000000000000048F
+t1386814651
+s1167
+
+N/Users/user/Desktop/Desktop/WorkSpace/TestImage/TestImage/TestImage-Prefix.pch
+c0000000053A3FCA10000000000000173
+t1403255969
+s371
+
+N/Users/user/Desktop/Desktop/WorkSpace/TestImage/TestImage/en.lproj/InfoPlist.strings
+c0000000052A91CBB000000000000002D
+t1386814651
+s45
+
+N/Users/user/Desktop/Desktop/WorkSpace/TestImage/TestImage/main.m
+c0000000052A91CBB000000000000014C
+t1386814651
+s332
+
+N/Users/user/Desktop/Desktop/WorkSpace/TestImage/build/Debug-iphonesimulator/TestImage.app
+t1403256297
+s510
+
+N/Users/user/Desktop/Desktop/WorkSpace/TestImage/build/Debug-iphonesimulator/TestImage.app.dSYM
+t1403255979
+s102
+
+N/Users/user/Desktop/Desktop/WorkSpace/TestImage/build/Debug-iphonesimulator/TestImage.app/Info.plist
+t1403255756
+s1021
+
+N/Users/user/Desktop/Desktop/WorkSpace/TestImage/build/Debug-iphonesimulator/TestImage.app/PkgInfo
+t1403255756
+s8
+
+N/Users/user/Desktop/Desktop/WorkSpace/TestImage/build/Debug-iphonesimulator/TestImage.app/TestImage
+t1403256296
+s41816
+
+N/Users/user/Desktop/Desktop/WorkSpace/TestImage/build/Debug-iphonesimulator/TestImage.app/banner 01@2x.png
+t1403255756
+s224453
+
+N/Users/user/Desktop/Desktop/WorkSpace/TestImage/build/Debug-iphonesimulator/TestImage.app/banner 02@2x.png
+t1403255756
+s277052
+
+N/Users/user/Desktop/Desktop/WorkSpace/TestImage/build/Debug-iphonesimulator/TestImage.app/banner 03@2x.png
+t1403255756
+s264634
+
+N/Users/user/Desktop/Desktop/WorkSpace/TestImage/build/Debug-iphonesimulator/TestImage.app/banner 04@2x.png
+t1403255756
+s170972
+
+N/Users/user/Desktop/Desktop/WorkSpace/TestImage/build/Debug-iphonesimulator/TestImage.app/banner 05@2x.png
+t1403255756
+s193936
+
+N/Users/user/Desktop/Desktop/WorkSpace/TestImage/build/Debug-iphonesimulator/TestImage.app/banner 06@2x.png
+t1403255756
+s199303
+
+N/Users/user/Desktop/Desktop/WorkSpace/TestImage/build/Debug-iphonesimulator/TestImage.app/en.lproj/InfoPlist.strings
+t1403255756
+s42
+
+N/Users/user/Desktop/Desktop/WorkSpace/TestImage/build/Debug-iphonesimulator/TestImage.app/example.png
+t1403256297
+s617613
+
+N/Users/user/Desktop/Desktop/WorkSpace/TestImage/build/TestImage.build/Debug-iphonesimulator/TestImage.build/Objects-normal/x86_64/AppDelegate.o
+t1403255978
+s72020
+
+N/Users/user/Desktop/Desktop/WorkSpace/TestImage/build/TestImage.build/Debug-iphonesimulator/TestImage.build/Objects-normal/x86_64/CommonDeal.o
+t1403255978
+s3828
+
+N/Users/user/Desktop/Desktop/WorkSpace/TestImage/build/TestImage.build/Debug-iphonesimulator/TestImage.build/Objects-normal/x86_64/MainView.o
+t1403256296
+s51544
+
+N/Users/user/Desktop/Desktop/WorkSpace/TestImage/build/TestImage.build/Debug-iphonesimulator/TestImage.build/Objects-normal/x86_64/MainViewController.o
+t1403255978
+s46192
+
+N/Users/user/Desktop/Desktop/WorkSpace/TestImage/build/TestImage.build/Debug-iphonesimulator/TestImage.build/Objects-normal/x86_64/TestImage.LinkFileList
+c0000000053A3FCA9000000000000035E
+t1403255977
+s862
+
+N/Users/user/Desktop/Desktop/WorkSpace/TestImage/build/TestImage.build/Debug-iphonesimulator/TestImage.build/Objects-normal/x86_64/UIImage+Fuzzy.o
+t1403255978
+s20980
+
+N/Users/user/Desktop/Desktop/WorkSpace/TestImage/build/TestImage.build/Debug-iphonesimulator/TestImage.build/Objects-normal/x86_64/main.o
+t1403255978
+s3676
+
+N/Users/user/Desktop/Desktop/WorkSpace/TestImage/build/TestImage.build/Debug-iphonesimulator/TestImage.build/assetcatalog_dependencies.txt
+t1403255756
+s390
+
+N/Users/user/Desktop/Desktop/WorkSpace/TestImage/build/TestImage.build/Debug-iphonesimulator/TestImage.build/assetcatalog_generated_info.plist
+t1403255756
+s585
+
+N/usr/lib/libSystem.B.dylib
+c0000000051F11C6D000000000000D2A0
+t1374755949
+s53920
+
+N/usr/lib/system/libcache.dylib
+c0000000051F11C7E0000000000013870
+t1374755966
+s79984
+
+N/usr/lib/system/libcommonCrypto.dylib
+c000000005247DDD80000000000030250
+t1380441560
+s197200
+
+N/usr/lib/system/libcompiler_rt.dylib
+c0000000051F11C6D0000000000017910
+t1374755949
+s96528
+
+N/usr/lib/system/libcopyfile.dylib
+c0000000051F11C7D000000000001A130
+t1374755965
+s106800
+
+N/usr/lib/system/libdnsinfo.dylib
+c000000005247DE37000000000000C2A0
+t1380441655
+s49824
+
+N/usr/lib/system/libkeymgr.dylib
+c0000000051F11C7E0000000000008CE0
+t1374755966
+s36064
+
+N/usr/lib/system/liblaunch.dylib
+c000000005247DE3C000000000001D350
+t1380441660
+s119632
+
+N/usr/lib/system/libmacho.dylib
+c0000000051F11C7D0000000000014F90
+t1374755965
+s85904
+
+N/usr/lib/system/libquarantine.dylib
+c000000005247DE44000000000000D790
+t1380441668
+s55184
+
+N/usr/lib/system/libremovefile.dylib
+c000000005247DE44000000000000C330
+t1380441668
+s49968
+
+N/usr/lib/system/libsystem_blocks.dylib
+c0000000051F11C7E000000000000A080
+t1374755966
+s41088
+
+N/usr/lib/system/libsystem_c.dylib
+c000000005247DE0500000000001F91C0
+t1380441605
+s2068928
+
+N/usr/lib/system/libsystem_dnssd.dylib
+c000000005247DE3C000000000001BC00
+t1380441660
+s113664
+
+N/usr/lib/system/libsystem_info.dylib
+c0000000051F11C6D000000000008B580
+t1374755949
+s570752
+
+N/usr/lib/system/libsystem_kernel.dylib
+c000000005247DE0500000000000569B0
+t1380441605
+s354736
+
+N/usr/lib/system/libsystem_m.dylib
+c0000000051F11C6D0000000000070540
+t1374755949
+s460096
+
+N/usr/lib/system/libsystem_notify.dylib
+c0000000051F11C6D0000000000025620
+t1374755949
+s153120
+
+N/usr/lib/system/libsystem_sandbox.dylib
+c000000005247DE25000000000000C780
+t1380441637
+s51072
+
+N/usr/lib/system/libunc.dylib
+c0000000051F11C78000000000000D430
+t1374755960
+s54320
+
+N/usr/lib/system/libunwind.dylib
+c0000000051F11C7F000000000001BAA0
+t1374755967
+s113312
+
+N/var/folders/60/9x6_wf910nz0br0kg3s424k40000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestImage-Prefix-dltfjcszlrwtlebeivnvdynncrth/TestImage-Prefix.pch.pch
+t1403255978
+s127828
+
+N/var/folders/60/9x6_wf910nz0br0kg3s424k40000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestImage-Prefix-dmqfqawgplqfhpcchhmkyybaplsp/TestImage-Prefix.pch.pch
+t1403255754
+s123808
+
+CBuild AST from /Users/user/Desktop/Desktop/WorkSpace/TestImage/Classes/Common/CommonDeal.m
+r0
+
+CBuild AST from /Users/user/Desktop/Desktop/WorkSpace/TestImage/Classes/Common/UIImage+Fuzzy.m
+r0
+
+CBuild AST from /Users/user/Desktop/Desktop/WorkSpace/TestImage/Classes/Controllers/MainViewController.m
+r0
+
+CBuild AST from /Users/user/Desktop/Desktop/WorkSpace/TestImage/Classes/Views/MainView.m
+r0
+
+CBuild AST from /Users/user/Desktop/Desktop/WorkSpace/TestImage/TestImage/AppDelegate.m
+r0
+
+CBuild AST from /Users/user/Desktop/Desktop/WorkSpace/TestImage/TestImage/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies93576b673554b941^bfb97b673554b941^---0#1#1#--18"Check dependencies36"4A63A308-5094-42F6-A662-72BF9F247D44-
+
+CCompileAssetCatalog /Users/user/Desktop/Desktop/WorkSpace/TestImage/build/Debug-iphonesimulator/TestImage.app /Users/user/Desktop/Desktop/WorkSpace/TestImage/TestImage/Images.xcassets
+s424948556.103555
+e424948556.245889
+r1
+xCompileAssetCatalog
+x/Users/user/Desktop/Desktop/WorkSpace/TestImage/build/Debug-iphonesimulator/TestImage.app
+x/Users/user/Desktop/Desktop/WorkSpace/TestImage/TestImage/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/user/Desktop/Desktop/WorkSpace/TestImage/build/Debug-iphonesimulator/TestImage.app/LaunchImage-700-568h@2x.png
+o/Users/user/Desktop/Desktop/WorkSpace/TestImage/build/Debug-iphonesimulator/TestImage.app/LaunchImage-568h@2x.png
+o/Users/user/Desktop/Desktop/WorkSpace/TestImage/build/TestImage.build/Debug-iphonesimulator/TestImage.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"CompileAssetCatalog build/Debug-iphonesimulator/TestImage.app TestImage/Images.xcassets87"CompileAssetCatalog build/Debug-iphonesimulator/TestImage.app TestImage/Images.xcassetse49e1a4c3354b941^c7f23e4c3354b941^-418"/* com.apple.actool.compilation-results *//Users/user/Desktop/Desktop/WorkSpace/TestImage/build/Debug-iphonesimulator/TestImage.app/LaunchImage-700-568h@2x.png/Users/user/Desktop/Desktop/WorkSpace/TestImage/build/Debug-iphonesimulator/TestImage.app/LaunchImage-568h@2x.png/Users/user/Desktop/Desktop/WorkSpace/TestImage/build/TestImage.build/Debug-iphonesimulator/TestImage.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@90"file://localhost/Users/user/Desktop/Desktop/WorkSpace/TestImage/TestImage/Images.xcassets/0000000000000000^1153"CompileAssetCatalog build/Debug-iphonesimulator/TestImage.app TestImage/Images.xcassets    cd /Users/user/Desktop/Desktop/WorkSpace/TestImage    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/user/Desktop/Desktop/WorkSpace/TestImage/build/TestImage.build/Debug-iphonesimulator/TestImage.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/user/Desktop/Desktop/WorkSpace/TestImage/build/TestImage.build/Debug-iphonesimulator/TestImage.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 5.1 --target-device iphone --compress-pngs --compile /Users/user/Desktop/Desktop/WorkSpace/TestImage/build/Debug-iphonesimulator/TestImage.app /Users/user/Desktop/Desktop/WorkSpace/TestImage/TestImage/Images.xcassets36"81F9323A-32B1-4905-AECA-3FEEF616479F-
+b2A730EB9-2D6A-4BB8-A991-7B6C71936779
+
+CCompileC build/TestImage.build/Debug-iphonesimulator/TestImage.build/Objects-normal/x86_64/AppDelegate.o /Users/user/Desktop/Desktop/WorkSpace/TestImage/TestImage/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424948778.448195
+e424948778.771025
+r1
+xCompileC
+xbuild/TestImage.build/Debug-iphonesimulator/TestImage.build/Objects-normal/x86_64/AppDelegate.o
+x/Users/user/Desktop/Desktop/WorkSpace/TestImage/TestImage/AppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/user/Desktop/Desktop/WorkSpace/TestImage/TestImage/AppDelegate.m
+d/Users/user/Desktop/Desktop/WorkSpace/TestImage/TestImage/AppDelegate.h
+d/Users/user/Desktop/Desktop/WorkSpace/TestImage/Classes/Controllers/MainViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Compile /Users/user/Desktop/Desktop/WorkSpace/TestImage/TestImage/AppDelegate.m198"CompileC build/TestImage.build/Debug-iphonesimulator/TestImage.build/Objects-normal/x86_64/AppDelegate.o TestImage/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerb4e7722a3454b941^b361c52a3454b941^---0#0#1#-19%DVTDocumentLocation2@87"file://localhost/Users/user/Desktop/Desktop/WorkSpace/TestImage/TestImage/AppDelegate.m0000000000000000^3696"CompileC build/TestImage.build/Debug-iphonesimulator/TestImage.build/Objects-normal/x86_64/AppDelegate.o TestImage/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/user/Desktop/Desktop/WorkSpace/TestImage    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/user/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.1 -iquote /Users/user/Desktop/Desktop/WorkSpace/TestImage/build/TestImage.build/Debug-iphonesimulator/TestImage.build/TestImage-generated-files.hmap -I/Users/user/Desktop/Desktop/WorkSpace/TestImage/build/TestImage.build/Debug-iphonesimulator/TestImage.build/TestImage-own-target-headers.hmap -I/Users/user/Desktop/Desktop/WorkSpace/TestImage/build/TestImage.build/Debug-iphonesimulator/TestImage.build/TestImage-all-target-headers.hmap -iquote /Users/user/Desktop/Desktop/WorkSpace/TestImage/build/TestImage.build/Debug-iphonesimulator/TestImage.build/TestImage-project-headers.hmap -I/Users/user/Desktop/Desktop/WorkSpace/TestImage/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/user/Desktop/Desktop/WorkSpace/TestImage/build/TestImage.build/Debug-iphonesimulator/TestImage.build/DerivedSources/x86_64 -I/Users/user/Desktop/Desktop/WorkSpace/TestImage/build/TestImage.build/Debug-iphonesimulator/TestImage.build/DerivedSources -F/Users/user/Desktop/Desktop/WorkSpace/TestImage/build/Debug-iphonesimulator -include /var/folders/60/9x6_wf910nz0br0kg3s424k40000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestImage-Prefix-dltfjcszlrwtlebeivnvdynncrth/TestImage-Prefix.pch -MMD -MT dependencies -MF /Users/user/Desktop/Desktop/WorkSpace/TestImage/build/TestImage.build/Debug-iphonesimulator/TestImage.build/Objects-normal/x86_64/AppDelegate.d --serialize-diagnostics /Users/user/Desktop/Desktop/WorkSpace/TestImage/build/TestImage.build/Debug-iphonesimulator/TestImage.build/Objects-normal/x86_64/AppDelegate.dia -c /Users/user/Desktop/Desktop/WorkSpace/TestImage/TestImage/AppDelegate.m -o /Users/user/Desktop/Desktop/WorkSpace/TestImage/build/TestImage.build/Debug-iphonesimulator/TestImage.build/Objects-normal/x86_64/AppDelegate.o36"C8F9EE98-11D2-4EC1-849A-5CB6876380E4-
+b40F4E266-496A-4E32-86BE-16A2D180CFAD
+
+CCompileC build/TestImage.build/Debug-iphonesimulator/TestImage.build/Objects-normal/x86_64/CommonDeal.o /Users/user/Desktop/Desktop/WorkSpace/TestImage/Classes/Common/CommonDeal.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424948778.794683
+e424948779.012940
+r1
+xCompileC
+xbuild/TestImage.build/Debug-iphonesimulator/TestImage.build/Objects-normal/x86_64/CommonDeal.o
+x/Users/user/Desktop/Desktop/WorkSpace/TestImage/Classes/Common/CommonDeal.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/user/Desktop/Desktop/WorkSpace/TestImage/Classes/Common/CommonDeal.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /Users/user/Desktop/Desktop/WorkSpace/TestImage/Classes/Common/CommonDeal.m201"CompileC build/TestImage.build/Debug-iphonesimulator/TestImage.build/Objects-normal/x86_64/CommonDeal.o Classes/Common/CommonDeal.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler268bcb2a3454b941^c64f032b3454b941^---0#0#1#-19%DVTDocumentLocation2@91"file://localhost/Users/user/Desktop/Desktop/WorkSpace/TestImage/Classes/Common/CommonDeal.m0000000000000000^3700"CompileC build/TestImage.build/Debug-iphonesimulator/TestImage.build/Objects-normal/x86_64/CommonDeal.o Classes/Common/CommonDeal.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/user/Desktop/Desktop/WorkSpace/TestImage    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/user/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.1 -iquote /Users/user/Desktop/Desktop/WorkSpace/TestImage/build/TestImage.build/Debug-iphonesimulator/TestImage.build/TestImage-generated-files.hmap -I/Users/user/Desktop/Desktop/WorkSpace/TestImage/build/TestImage.build/Debug-iphonesimulator/TestImage.build/TestImage-own-target-headers.hmap -I/Users/user/Desktop/Desktop/WorkSpace/TestImage/build/TestImage.build/Debug-iphonesimulator/TestImage.build/TestImage-all-target-headers.hmap -iquote /Users/user/Desktop/Desktop/WorkSpace/TestImage/build/TestImage.build/Debug-iphonesimulator/TestImage.build/TestImage-project-headers.hmap -I/Users/user/Desktop/Desktop/WorkSpace/TestImage/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/user/Desktop/Desktop/WorkSpace/TestImage/build/TestImage.build/Debug-iphonesimulator/TestImage.build/DerivedSources/x86_64 -I/Users/user/Desktop/Desktop/WorkSpace/TestImage/build/TestImage.build/Debug-iphonesimulator/TestImage.build/DerivedSources -F/Users/user/Desktop/Desktop/WorkSpace/TestImage/build/Debug-iphonesimulator -include /var/folders/60/9x6_wf910nz0br0kg3s424k40000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestImage-Prefix-dltfjcszlrwtlebeivnvdynncrth/TestImage-Prefix.pch -MMD -MT dependencies -MF /Users/user/Desktop/Desktop/WorkSpace/TestImage/build/TestImage.build/Debug-iphonesimulator/TestImage.build/Objects-normal/x86_64/CommonDeal.d --serialize-diagnostics /Users/user/Desktop/Desktop/WorkSpace/TestImage/build/TestImage.build/Debug-iphonesimulator/TestImage.build/Objects-normal/x86_64/CommonDeal.dia -c /Users/user/Desktop/Desktop/WorkSpace/TestImage/Classes/Common/CommonDeal.m -o /Users/user/Desktop/Desktop/WorkSpace/TestImage/build/TestImage.build/Debug-iphonesimulator/TestImage.build/Objects-normal/x86_64/CommonDeal.o36"727602F3-1098-4724-9A29-5CA59860081F-
+b40F4E266-496A-4E32-86BE-16A2D180CFAD
+
+CCompileC build/TestImage.build/Debug-iphonesimulator/TestImage.build/Objects-normal/x86_64/MainView.o /Users/user/Desktop/Desktop/WorkSpace/TestImage/Classes/Views/MainView.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424949095.486860
+e424949096.591118
+r1
+xCompileC
+xbuild/TestImage.build/Debug-iphonesimulator/TestImage.build/Objects-normal/x86_64/MainView.o
+x/Users/user/Desktop/Desktop/WorkSpace/TestImage/Classes/Views/MainView.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/user/Desktop/Desktop/WorkSpace/TestImage/Classes/Views/MainView.m
+d/Users/user/Desktop/Desktop/WorkSpace/TestImage/Classes/Views/MainView.h
+d/Users/user/Desktop/Desktop/WorkSpace/TestImage/Classes/Common/UIImage+Fuzzy.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Compile /Users/user/Desktop/Desktop/WorkSpace/TestImage/Classes/Views/MainView.m196"CompileC build/TestImage.build/Debug-iphonesimulator/TestImage.build/Objects-normal/x86_64/MainView.o Classes/Views/MainView.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler83be7c673554b941^a45397683554b941^---0#0#1#-19%DVTDocumentLocation2@88"file://localhost/Users/user/Desktop/Desktop/WorkSpace/TestImage/Classes/Views/MainView.m0000000000000000^3686"CompileC build/TestImage.build/Debug-iphonesimulator/TestImage.build/Objects-normal/x86_64/MainView.o Classes/Views/MainView.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/user/Desktop/Desktop/WorkSpace/TestImage    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/user/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.1 -iquote /Users/user/Desktop/Desktop/WorkSpace/TestImage/build/TestImage.build/Debug-iphonesimulator/TestImage.build/TestImage-generated-files.hmap -I/Users/user/Desktop/Desktop/WorkSpace/TestImage/build/TestImage.build/Debug-iphonesimulator/TestImage.build/TestImage-own-target-headers.hmap -I/Users/user/Desktop/Desktop/WorkSpace/TestImage/build/TestImage.build/Debug-iphonesimulator/TestImage.build/TestImage-all-target-headers.hmap -iquote /Users/user/Desktop/Desktop/WorkSpace/TestImage/build/TestImage.build/Debug-iphonesimulator/TestImage.build/TestImage-project-headers.hmap -I/Users/user/Desktop/Desktop/WorkSpace/TestImage/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/user/Desktop/Desktop/WorkSpace/TestImage/build/TestImage.build/Debug-iphonesimulator/TestImage.build/DerivedSources/x86_64 -I/Users/user/Desktop/Desktop/WorkSpace/TestImage/build/TestImage.build/Debug-iphonesimulator/TestImage.build/DerivedSources -F/Users/user/Desktop/Desktop/WorkSpace/TestImage/build/Debug-iphonesimulator -include /var/folders/60/9x6_wf910nz0br0kg3s424k40000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestImage-Prefix-dltfjcszlrwtlebeivnvdynncrth/TestImage-Prefix.pch -MMD -MT dependencies -MF /Users/user/Desktop/Desktop/WorkSpace/TestImage/build/TestImage.build/Debug-iphonesimulator/TestImage.build/Objects-normal/x86_64/MainView.d --serialize-diagnostics /Users/user/Desktop/Desktop/WorkSpace/TestImage/build/TestImage.build/Debug-iphonesimulator/TestImage.build/Objects-normal/x86_64/MainView.dia -c /Users/user/Desktop/Desktop/WorkSpace/TestImage/Classes/Views/MainView.m -o /Users/user/Desktop/Desktop/WorkSpace/TestImage/build/TestImage.build/Debug-iphonesimulator/TestImage.build/Objects-normal/x86_64/MainView.o36"4568D027-779C-4478-97BB-7A50CDF9A55C-
+b31100BEC-3A2A-4611-AA69-35F437227C2A
+
+CCompileC build/TestImage.build/Debug-iphonesimulator/TestImage.build/Objects-normal/x86_64/MainViewController.o /Users/user/Desktop/Desktop/WorkSpace/TestImage/Classes/Controllers/MainViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424948778.448501
+e424948778.811499
+r1
+xCompileC
+xbuild/TestImage.build/Debug-iphonesimulator/TestImage.build/Objects-normal/x86_64/MainViewController.o
+x/Users/user/Desktop/Desktop/WorkSpace/TestImage/Classes/Controllers/MainViewController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/user/Desktop/Desktop/WorkSpace/TestImage/Classes/Controllers/MainViewController.m
+d/Users/user/Desktop/Desktop/WorkSpace/TestImage/Classes/Controllers/MainViewController.h
+d/Users/user/Desktop/Desktop/WorkSpace/TestImage/Classes/Views/MainView.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Compile /Users/user/Desktop/Desktop/WorkSpace/TestImage/Classes/Controllers/MainViewController.m222"CompileC build/TestImage.build/Debug-iphonesimulator/TestImage.build/Objects-normal/x86_64/MainViewController.o Classes/Controllers/MainViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler02f1722a3454b941^f1bdcf2a3454b941^---0#0#1#-19%DVTDocumentLocation2@104"file://localhost/Users/user/Desktop/Desktop/WorkSpace/TestImage/Classes/Controllers/MainViewController.m0000000000000000^3758"CompileC build/TestImage.build/Debug-iphonesimulator/TestImage.build/Objects-normal/x86_64/MainViewController.o Classes/Controllers/MainViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/user/Desktop/Desktop/WorkSpace/TestImage    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/user/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.1 -iquote /Users/user/Desktop/Desktop/WorkSpace/TestImage/build/TestImage.build/Debug-iphonesimulator/TestImage.build/TestImage-generated-files.hmap -I/Users/user/Desktop/Desktop/WorkSpace/TestImage/build/TestImage.build/Debug-iphonesimulator/TestImage.build/TestImage-own-target-headers.hmap -I/Users/user/Desktop/Desktop/WorkSpace/TestImage/build/TestImage.build/Debug-iphonesimulator/TestImage.build/TestImage-all-target-headers.hmap -iquote /Users/user/Desktop/Desktop/WorkSpace/TestImage/build/TestImage.build/Debug-iphonesimulator/TestImage.build/TestImage-project-headers.hmap -I/Users/user/Desktop/Desktop/WorkSpace/TestImage/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/user/Desktop/Desktop/WorkSpace/TestImage/build/TestImage.build/Debug-iphonesimulator/TestImage.build/DerivedSources/x86_64 -I/Users/user/Desktop/Desktop/WorkSpace/TestImage/build/TestImage.build/Debug-iphonesimulator/TestImage.build/DerivedSources -F/Users/user/Desktop/Desktop/WorkSpace/TestImage/build/Debug-iphonesimulator -include /var/folders/60/9x6_wf910nz0br0kg3s424k40000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestImage-Prefix-dltfjcszlrwtlebeivnvdynncrth/TestImage-Prefix.pch -MMD -MT dependencies -MF /Users/user/Desktop/Desktop/WorkSpace/TestImage/build/TestImage.build/Debug-iphonesimulator/TestImage.build/Objects-normal/x86_64/MainViewController.d --serialize-diagnostics /Users/user/Desktop/Desktop/WorkSpace/TestImage/build/TestImage.build/Debug-iphonesimulator/TestImage.build/Objects-normal/x86_64/MainViewController.dia -c /Users/user/Desktop/Desktop/WorkSpace/TestImage/Classes/Controllers/MainViewController.m -o /Users/user/Desktop/Desktop/WorkSpace/TestImage/build/TestImage.build/Debug-iphonesimulator/TestImage.build/Objects-normal/x86_64/MainViewController.o36"24CC6B20-15C9-4F71-A845-A79BC0F21CC5-
+b40F4E266-496A-4E32-86BE-16A2D180CFAD
+
+CCompileC build/TestImage.build/Debug-iphonesimulator/TestImage.build/Objects-normal/x86_64/UIImage+Fuzzy.o /Users/user/Desktop/Desktop/WorkSpace/TestImage/Classes/Common/UIImage+Fuzzy.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424948778.448392
+e424948778.793054
+r1
+xCompileC
+xbuild/TestImage.build/Debug-iphonesimulator/TestImage.build/Objects-normal/x86_64/UIImage+Fuzzy.o
+x/Users/user/Desktop/Desktop/WorkSpace/TestImage/Classes/Common/UIImage+Fuzzy.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/user/Desktop/Desktop/WorkSpace/TestImage/Classes/Common/UIImage+Fuzzy.m
+d/Users/user/Desktop/Desktop/WorkSpace/TestImage/Classes/Common/UIImage+Fuzzy.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Compile /Users/user/Desktop/Desktop/WorkSpace/TestImage/Classes/Common/UIImage+Fuzzy.m207"CompileC build/TestImage.build/Debug-iphonesimulator/TestImage.build/Objects-normal/x86_64/UIImage+Fuzzy.o Classes/Common/UIImage+Fuzzy.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler5bec722a3454b941^b820cb2a3454b941^---0#0#1#-19%DVTDocumentLocation2@94"file://localhost/Users/user/Desktop/Desktop/WorkSpace/TestImage/Classes/Common/UIImage+Fuzzy.m0000000000000000^3718"CompileC build/TestImage.build/Debug-iphonesimulator/TestImage.build/Objects-normal/x86_64/UIImage+Fuzzy.o Classes/Common/UIImage+Fuzzy.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/user/Desktop/Desktop/WorkSpace/TestImage    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/user/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.1 -iquote /Users/user/Desktop/Desktop/WorkSpace/TestImage/build/TestImage.build/Debug-iphonesimulator/TestImage.build/TestImage-generated-files.hmap -I/Users/user/Desktop/Desktop/WorkSpace/TestImage/build/TestImage.build/Debug-iphonesimulator/TestImage.build/TestImage-own-target-headers.hmap -I/Users/user/Desktop/Desktop/WorkSpace/TestImage/build/TestImage.build/Debug-iphonesimulator/TestImage.build/TestImage-all-target-headers.hmap -iquote /Users/user/Desktop/Desktop/WorkSpace/TestImage/build/TestImage.build/Debug-iphonesimulator/TestImage.build/TestImage-project-headers.hmap -I/Users/user/Desktop/Desktop/WorkSpace/TestImage/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/user/Desktop/Desktop/WorkSpace/TestImage/build/TestImage.build/Debug-iphonesimulator/TestImage.build/DerivedSources/x86_64 -I/Users/user/Desktop/Desktop/WorkSpace/TestImage/build/TestImage.build/Debug-iphonesimulator/TestImage.build/DerivedSources -F/Users/user/Desktop/Desktop/WorkSpace/TestImage/build/Debug-iphonesimulator -include /var/folders/60/9x6_wf910nz0br0kg3s424k40000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestImage-Prefix-dltfjcszlrwtlebeivnvdynncrth/TestImage-Prefix.pch -MMD -MT dependencies -MF /Users/user/Desktop/Desktop/WorkSpace/TestImage/build/TestImage.build/Debug-iphonesimulator/TestImage.build/Objects-normal/x86_64/UIImage+Fuzzy.d --serialize-diagnostics /Users/user/Desktop/Desktop/WorkSpace/TestImage/build/TestImage.build/Debug-iphonesimulator/TestImage.build/Objects-normal/x86_64/UIImage+Fuzzy.dia -c /Users/user/Desktop/Desktop/WorkSpace/TestImage/Classes/Common/UIImage+Fuzzy.m -o /Users/user/Desktop/Desktop/WorkSpace/TestImage/build/TestImage.build/Debug-iphonesimulator/TestImage.build/Objects-normal/x86_64/UIImage+Fuzzy.o36"8BD16B09-51F2-4F50-A04B-40F5AF01D4F3-
+b40F4E266-496A-4E32-86BE-16A2D180CFAD
+
+CCompileC build/TestImage.build/Debug-iphonesimulator/TestImage.build/Objects-normal/x86_64/main.o /Users/user/Desktop/Desktop/WorkSpace/TestImage/TestImage/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424948778.772723
+e424948779.014449
+r1
+xCompileC
+xbuild/TestImage.build/Debug-iphonesimulator/TestImage.build/Objects-normal/x86_64/main.o
+x/Users/user/Desktop/Desktop/WorkSpace/TestImage/TestImage/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/user/Desktop/Desktop/WorkSpace/TestImage/TestImage/main.m
+d/Users/user/Desktop/Desktop/WorkSpace/TestImage/TestImage/AppDelegate.h
+d/Users/user/Desktop/Desktop/WorkSpace/TestImage/Classes/Controllers/MainViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Compile /Users/user/Desktop/Desktop/WorkSpace/TestImage/TestImage/main.m184"CompileC build/TestImage.build/Debug-iphonesimulator/TestImage.build/Objects-normal/x86_64/main.o TestImage/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler02f2c52a3454b941^e0b9032b3454b941^---0#0#1#-19%DVTDocumentLocation2@80"file://localhost/Users/user/Desktop/Desktop/WorkSpace/TestImage/TestImage/main.m0000000000000000^3654"CompileC build/TestImage.build/Debug-iphonesimulator/TestImage.build/Objects-normal/x86_64/main.o TestImage/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/user/Desktop/Desktop/WorkSpace/TestImage    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/user/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.1 -iquote /Users/user/Desktop/Desktop/WorkSpace/TestImage/build/TestImage.build/Debug-iphonesimulator/TestImage.build/TestImage-generated-files.hmap -I/Users/user/Desktop/Desktop/WorkSpace/TestImage/build/TestImage.build/Debug-iphonesimulator/TestImage.build/TestImage-own-target-headers.hmap -I/Users/user/Desktop/Desktop/WorkSpace/TestImage/build/TestImage.build/Debug-iphonesimulator/TestImage.build/TestImage-all-target-headers.hmap -iquote /Users/user/Desktop/Desktop/WorkSpace/TestImage/build/TestImage.build/Debug-iphonesimulator/TestImage.build/TestImage-project-headers.hmap -I/Users/user/Desktop/Desktop/WorkSpace/TestImage/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/user/Desktop/Desktop/WorkSpace/TestImage/build/TestImage.build/Debug-iphonesimulator/TestImage.build/DerivedSources/x86_64 -I/Users/user/Desktop/Desktop/WorkSpace/TestImage/build/TestImage.build/Debug-iphonesimulator/TestImage.build/DerivedSources -F/Users/user/Desktop/Desktop/WorkSpace/TestImage/build/Debug-iphonesimulator -include /var/folders/60/9x6_wf910nz0br0kg3s424k40000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestImage-Prefix-dltfjcszlrwtlebeivnvdynncrth/TestImage-Prefix.pch -MMD -MT dependencies -MF /Users/user/Desktop/Desktop/WorkSpace/TestImage/build/TestImage.build/Debug-iphonesimulator/TestImage.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/user/Desktop/Desktop/WorkSpace/TestImage/build/TestImage.build/Debug-iphonesimulator/TestImage.build/Objects-normal/x86_64/main.dia -c /Users/user/Desktop/Desktop/WorkSpace/TestImage/TestImage/main.m -o /Users/user/Desktop/Desktop/WorkSpace/TestImage/build/TestImage.build/Debug-iphonesimulator/TestImage.build/Objects-normal/x86_64/main.o36"0C86D75E-65BD-4272-AFF8-278C2DF62144-
+b40F4E266-496A-4E32-86BE-16A2D180CFAD
+
+CCopyStringsFile /Users/user/Desktop/Desktop/WorkSpace/TestImage/build/Debug-iphonesimulator/TestImage.app/en.lproj/InfoPlist.strings TestImage/en.lproj/InfoPlist.strings
+s424948556.029501
+e424948556.031826
+r1
+xCopyStringsFile
+x/Users/user/Desktop/Desktop/WorkSpace/TestImage/build/Debug-iphonesimulator/TestImage.app/en.lproj/InfoPlist.strings
+xTestImage/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy TestImage/en.lproj/InfoPlist.strings121"CopyStringsFile build/Debug-iphonesimulator/TestImage.app/en.lproj/InfoPlist.strings TestImage/en.lproj/InfoPlist.strings0f9c074c3354b941^2426084c3354b941^---0#0#1#-19%DVTDocumentLocation2@100"file://localhost/Users/user/Desktop/Desktop/WorkSpace/TestImage/TestImage/en.lproj/InfoPlist.strings0000000000000000^601"CopyStringsFile build/Debug-iphonesimulator/TestImage.app/en.lproj/InfoPlist.strings TestImage/en.lproj/InfoPlist.strings    cd /Users/user/Desktop/Desktop/WorkSpace/TestImage    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/user/Desktop/Desktop/WorkSpace/TestImage/build/Debug-iphonesimulator/TestImage.app/en.lproj -- TestImage/en.lproj/InfoPlist.strings36"98332805-0B81-4C70-9E5A-F89FE01C7CDC-
+b2A730EB9-2D6A-4BB8-A991-7B6C71936779
+
+CCpResource Resource/Images/banner\ 01@2x.png build/Debug-iphonesimulator/TestImage.app/banner\ 01@2x.png
+s424948556.029806
+e424948556.100971
+r1
+xCpResource
+xResource/Images/banner 01@2x.png
+xbuild/Debug-iphonesimulator/TestImage.app/banner 01@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Copy build/Debug-iphonesimulator/TestImage.app/banner 01@2x.png104"CpResource Resource/Images/banner\ 01@2x.png build/Debug-iphonesimulator/TestImage.app/banner\ 01@2x.png97ab074c3354b941^54fe194c3354b941^---0#0#1#-19%DVTDocumentLocation2@124"file://localhost/Users/user/Desktop/Desktop/WorkSpace/TestImage/build/Debug-iphonesimulator/TestImage.app/banner%2001@2x.png003860a6deffdf42^639"CpResource Resource/Images/banner\ 01@2x.png build/Debug-iphonesimulator/TestImage.app/banner\ 01@2x.png    cd /Users/user/Desktop/Desktop/WorkSpace/TestImage    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/user/Desktop/Desktop/WorkSpace/TestImage/Resource/Images/banner\ 01@2x.png /Users/user/Desktop/Desktop/WorkSpace/TestImage/build/Debug-iphonesimulator/TestImage.app36"894009FF-85CA-4AA2-B376-0EDDBF040BCB-
+b2A730EB9-2D6A-4BB8-A991-7B6C71936779
+
+CCpResource Resource/Images/banner\ 02@2x.png build/Debug-iphonesimulator/TestImage.app/banner\ 02@2x.png
+s424948556.029505
+e424948556.102376
+r1
+xCpResource
+xResource/Images/banner 02@2x.png
+xbuild/Debug-iphonesimulator/TestImage.app/banner 02@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Copy build/Debug-iphonesimulator/TestImage.app/banner 02@2x.png104"CpResource Resource/Images/banner\ 02@2x.png build/Debug-iphonesimulator/TestImage.app/banner\ 02@2x.png389e074c3354b941^00381a4c3354b941^---0#0#1#-19%DVTDocumentLocation2@124"file://localhost/Users/user/Desktop/Desktop/WorkSpace/TestImage/build/Debug-iphonesimulator/TestImage.app/banner%2002@2x.png003860a6deffdf42^639"CpResource Resource/Images/banner\ 02@2x.png build/Debug-iphonesimulator/TestImage.app/banner\ 02@2x.png    cd /Users/user/Desktop/Desktop/WorkSpace/TestImage    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/user/Desktop/Desktop/WorkSpace/TestImage/Resource/Images/banner\ 02@2x.png /Users/user/Desktop/Desktop/WorkSpace/TestImage/build/Debug-iphonesimulator/TestImage.app36"E9D01CCB-DF5E-408C-A39B-69761BF91A7C-
+b2A730EB9-2D6A-4BB8-A991-7B6C71936779
+
+CCpResource Resource/Images/banner\ 03@2x.png build/Debug-iphonesimulator/TestImage.app/banner\ 03@2x.png
+s424948556.101683
+e424948556.156047
+r1
+xCpResource
+xResource/Images/banner 03@2x.png
+xbuild/Debug-iphonesimulator/TestImage.app/banner 03@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Copy build/Debug-iphonesimulator/TestImage.app/banner 03@2x.png104"CpResource Resource/Images/banner\ 03@2x.png build/Debug-iphonesimulator/TestImage.app/banner\ 03@2x.png7e1b1a4c3354b941^49f3274c3354b941^---0#0#1#-19%DVTDocumentLocation2@124"file://localhost/Users/user/Desktop/Desktop/WorkSpace/TestImage/build/Debug-iphonesimulator/TestImage.app/banner%2003@2x.png003860a6deffdf42^639"CpResource Resource/Images/banner\ 03@2x.png build/Debug-iphonesimulator/TestImage.app/banner\ 03@2x.png    cd /Users/user/Desktop/Desktop/WorkSpace/TestImage    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/user/Desktop/Desktop/WorkSpace/TestImage/Resource/Images/banner\ 03@2x.png /Users/user/Desktop/Desktop/WorkSpace/TestImage/build/Debug-iphonesimulator/TestImage.app36"FD98005B-4DCE-447D-AEF5-5E2AC32E56B1-
+b2A730EB9-2D6A-4BB8-A991-7B6C71936779
+
+CCpResource Resource/Images/banner\ 04@2x.png build/Debug-iphonesimulator/TestImage.app/banner\ 04@2x.png
+s424948556.101695
+e424948556.153868
+r1
+xCpResource
+xResource/Images/banner 04@2x.png
+xbuild/Debug-iphonesimulator/TestImage.app/banner 04@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Copy build/Debug-iphonesimulator/TestImage.app/banner 04@2x.png104"CpResource Resource/Images/banner\ 04@2x.png build/Debug-iphonesimulator/TestImage.app/banner\ 04@2x.pnga31e1a4c3354b941^3964274c3354b941^---0#0#1#-19%DVTDocumentLocation2@124"file://localhost/Users/user/Desktop/Desktop/WorkSpace/TestImage/build/Debug-iphonesimulator/TestImage.app/banner%2004@2x.png003860a6deffdf42^639"CpResource Resource/Images/banner\ 04@2x.png build/Debug-iphonesimulator/TestImage.app/banner\ 04@2x.png    cd /Users/user/Desktop/Desktop/WorkSpace/TestImage    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/user/Desktop/Desktop/WorkSpace/TestImage/Resource/Images/banner\ 04@2x.png /Users/user/Desktop/Desktop/WorkSpace/TestImage/build/Debug-iphonesimulator/TestImage.app36"A70FB332-C912-4A93-A1E1-D51FEE53CCAE-
+b2A730EB9-2D6A-4BB8-A991-7B6C71936779
+
+CCpResource Resource/Images/banner\ 05@2x.png build/Debug-iphonesimulator/TestImage.app/banner\ 05@2x.png
+s424948556.033250
+e424948556.101729
+r1
+xCpResource
+xResource/Images/banner 05@2x.png
+xbuild/Debug-iphonesimulator/TestImage.app/banner 05@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Copy build/Debug-iphonesimulator/TestImage.app/banner 05@2x.png104"CpResource Resource/Images/banner\ 05@2x.png build/Debug-iphonesimulator/TestImage.app/banner\ 05@2x.pnga298084c3354b941^3c131a4c3354b941^---0#0#1#-19%DVTDocumentLocation2@124"file://localhost/Users/user/Desktop/Desktop/WorkSpace/TestImage/build/Debug-iphonesimulator/TestImage.app/banner%2005@2x.png003860a6deffdf42^639"CpResource Resource/Images/banner\ 05@2x.png build/Debug-iphonesimulator/TestImage.app/banner\ 05@2x.png    cd /Users/user/Desktop/Desktop/WorkSpace/TestImage    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/user/Desktop/Desktop/WorkSpace/TestImage/Resource/Images/banner\ 05@2x.png /Users/user/Desktop/Desktop/WorkSpace/TestImage/build/Debug-iphonesimulator/TestImage.app36"6204BADC-5A1E-4613-9092-74998ACD339A-
+b2A730EB9-2D6A-4BB8-A991-7B6C71936779
+
+CCpResource Resource/Images/banner\ 06@2x.png build/Debug-iphonesimulator/TestImage.app/banner\ 06@2x.png
+s424948556.029512
+e424948556.100264
+r1
+xCpResource
+xResource/Images/banner 06@2x.png
+xbuild/Debug-iphonesimulator/TestImage.app/banner 06@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Copy build/Debug-iphonesimulator/TestImage.app/banner 06@2x.png104"CpResource Resource/Images/banner\ 06@2x.png build/Debug-iphonesimulator/TestImage.app/banner\ 06@2x.png87a3074c3354b941^3bab194c3354b941^---0#0#1#-19%DVTDocumentLocation2@124"file://localhost/Users/user/Desktop/Desktop/WorkSpace/TestImage/build/Debug-iphonesimulator/TestImage.app/banner%2006@2x.png003860a6deffdf42^639"CpResource Resource/Images/banner\ 06@2x.png build/Debug-iphonesimulator/TestImage.app/banner\ 06@2x.png    cd /Users/user/Desktop/Desktop/WorkSpace/TestImage    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/user/Desktop/Desktop/WorkSpace/TestImage/Resource/Images/banner\ 06@2x.png /Users/user/Desktop/Desktop/WorkSpace/TestImage/build/Debug-iphonesimulator/TestImage.app36"40B227A6-5D30-42CC-9BE1-6ABFC76D86F6-
+b2A730EB9-2D6A-4BB8-A991-7B6C71936779
+
+CCpResource Resource/Images/example.png build/Debug-iphonesimulator/TestImage.app/example.png
+s424949097.025741
+e424949097.033452
+r1
+xCpResource
+xResource/Images/example.png
+xbuild/Debug-iphonesimulator/TestImage.app/example.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection58"Copy build/Debug-iphonesimulator/TestImage.app/example.png92"CpResource Resource/Images/example.png build/Debug-iphonesimulator/TestImage.app/example.pnge3a606693554b941^a7241f693554b941^---0#0#1#-19%DVTDocumentLocation2@117"file://localhost/Users/user/Desktop/Desktop/WorkSpace/TestImage/build/Debug-iphonesimulator/TestImage.app/example.png003860a6deffdf42^621"CpResource Resource/Images/example.png build/Debug-iphonesimulator/TestImage.app/example.png    cd /Users/user/Desktop/Desktop/WorkSpace/TestImage    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/user/Desktop/Desktop/WorkSpace/TestImage/Resource/Images/example.png /Users/user/Desktop/Desktop/WorkSpace/TestImage/build/Debug-iphonesimulator/TestImage.app36"4C496305-AADF-4E13-A08C-01ED73169D84-
+b31100BEC-3A2A-4611-AA69-35F437227C2A
+
+CGenerateDSYMFile /Users/user/Desktop/Desktop/WorkSpace/TestImage/build/Debug-iphonesimulator/TestImage.app.dSYM /Users/user/Desktop/Desktop/WorkSpace/TestImage/build/Debug-iphonesimulator/TestImage.app/TestImage
+s424949097.042465
+e424949097.213872
+r1
+xGenerateDSYMFile
+x/Users/user/Desktop/Desktop/WorkSpace/TestImage/build/Debug-iphonesimulator/TestImage.app.dSYM
+x/Users/user/Desktop/Desktop/WorkSpace/TestImage/build/Debug-iphonesimulator/TestImage.app/TestImage
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Generate /Users/user/Desktop/Desktop/WorkSpace/TestImage/build/Debug-iphonesimulator/TestImage.app.dSYM115"GenerateDSYMFile build/Debug-iphonesimulator/TestImage.app.dSYM build/Debug-iphonesimulator/TestImage.app/TestImage57ed0a693554b941^1ac136693554b941^---0#0#1#-19%DVTDocumentLocation2@111"file://localhost/Users/user/Desktop/Desktop/WorkSpace/TestImage/build/Debug-iphonesimulator/TestImage.app.dSYM/0000000000000000^664"GenerateDSYMFile build/Debug-iphonesimulator/TestImage.app.dSYM build/Debug-iphonesimulator/TestImage.app/TestImage    cd /Users/user/Desktop/Desktop/WorkSpace/TestImage    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/user/Desktop/Desktop/WorkSpace/TestImage/build/Debug-iphonesimulator/TestImage.app/TestImage -o /Users/user/Desktop/Desktop/WorkSpace/TestImage/build/Debug-iphonesimulator/TestImage.app.dSYM36"97D062B5-95A8-405B-8533-AFF6D97C5158-
+b31100BEC-3A2A-4611-AA69-35F437227C2A
+
+CLd /Users/user/Desktop/Desktop/WorkSpace/TestImage/build/Debug-iphonesimulator/TestImage.app/TestImage normal x86_64
+s424949096.600856
+e424949097.017378
+r1
+xLd
+x/Users/user/Desktop/Desktop/WorkSpace/TestImage/build/Debug-iphonesimulator/TestImage.app/TestImage
+xnormal
+xx86_64
+d/Users/user/Desktop/Desktop/WorkSpace/TestImage/build/TestImage.build/Debug-iphonesimulator/TestImage.build/Objects-normal/x86_64/TestImage.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/user/Desktop/Desktop/WorkSpace/TestImage/build/TestImage.build/Debug-iphonesimulator/TestImage.build/Objects-normal/x86_64/AppDelegate.o
+d/Users/user/Desktop/Desktop/WorkSpace/TestImage/build/TestImage.build/Debug-iphonesimulator/TestImage.build/Objects-normal/x86_64/MainView.o
+d/Users/user/Desktop/Desktop/WorkSpace/TestImage/build/TestImage.build/Debug-iphonesimulator/TestImage.build/Objects-normal/x86_64/CommonDeal.o
+d/Users/user/Desktop/Desktop/WorkSpace/TestImage/build/TestImage.build/Debug-iphonesimulator/TestImage.build/Objects-normal/x86_64/UIImage+Fuzzy.o
+d/Users/user/Desktop/Desktop/WorkSpace/TestImage/build/TestImage.build/Debug-iphonesimulator/TestImage.build/Objects-normal/x86_64/MainViewController.o
+d/Users/user/Desktop/Desktop/WorkSpace/TestImage/build/TestImage.build/Debug-iphonesimulator/TestImage.build/Objects-normal/x86_64/main.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Accelerate.framework/Accelerate
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/arc/libarclite_iphonesimulator.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Accelerate.framework/Frameworks/vImage.framework/vImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Accelerate.framework/Frameworks/vecLib.framework/vecLib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Accelerate.framework/Frameworks/vecLib.framework/libvDSP.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Accelerate.framework/Frameworks/vecLib.framework/libLAPACK.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Accelerate.framework/Frameworks/vecLib.framework/libBLAS.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Accelerate.framework/Frameworks/vecLib.framework/libvMisc.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libdnsinfo.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Link /Users/user/Desktop/Desktop/WorkSpace/TestImage/build/Debug-iphonesimulator/TestImage.app/TestImage68"Ld build/Debug-iphonesimulator/TestImage.app/TestImage normal x86_64f3e599683554b941^87141f693554b941^---0#0#1#--1439"Ld build/Debug-iphonesimulator/TestImage.app/TestImage normal x86_64    cd /Users/user/Desktop/Desktop/WorkSpace/TestImage    export IPHONEOS_DEPLOYMENT_TARGET=5.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/user/Desktop/Desktop/WorkSpace/TestImage/build/Debug-iphonesimulator -F/Users/user/Desktop/Desktop/WorkSpace/TestImage/build/Debug-iphonesimulator -filelist /Users/user/Desktop/Desktop/WorkSpace/TestImage/build/TestImage.build/Debug-iphonesimulator/TestImage.build/Objects-normal/x86_64/TestImage.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=5.1 -framework Accelerate -framework CoreImage -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/user/Desktop/Desktop/WorkSpace/TestImage/build/TestImage.build/Debug-iphonesimulator/TestImage.build/Objects-normal/x86_64/TestImage_dependency_info.dat -o /Users/user/Desktop/Desktop/WorkSpace/TestImage/build/Debug-iphonesimulator/TestImage.app/TestImage36"7EAEA146-D3F5-45A8-9697-3F12CAB5499D-
+b31100BEC-3A2A-4611-AA69-35F437227C2A
+
+CProcessInfoPlistFile /Users/user/Desktop/Desktop/WorkSpace/TestImage/build/Debug-iphonesimulator/TestImage.app/Info.plist /Users/user/Desktop/Desktop/WorkSpace/TestImage/TestImage/TestImage-Info.plist
+s424948556.254136
+e424948556.257647
+r1
+xProcessInfoPlistFile
+x/Users/user/Desktop/Desktop/WorkSpace/TestImage/build/Debug-iphonesimulator/TestImage.app/Info.plist
+x/Users/user/Desktop/Desktop/WorkSpace/TestImage/TestImage/TestImage-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Process /Users/user/Desktop/Desktop/WorkSpace/TestImage/TestImage/TestImage-Info.plist104"ProcessInfoPlistFile build/Debug-iphonesimulator/TestImage.app/Info.plist TestImage/TestImage-Info.plist541e414c3354b941^9869434c3354b941^---0#0#1#-19%DVTDocumentLocation2@94"file://localhost/Users/user/Desktop/Desktop/WorkSpace/TestImage/TestImage/TestImage-Info.plist0000000000000000^904"ProcessInfoPlistFile build/Debug-iphonesimulator/TestImage.app/Info.plist TestImage/TestImage-Info.plist    cd /Users/user/Desktop/Desktop/WorkSpace/TestImage    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/user/Desktop/Desktop/WorkSpace/TestImage/TestImage/TestImage-Info.plist -genpkginfo /Users/user/Desktop/Desktop/WorkSpace/TestImage/build/Debug-iphonesimulator/TestImage.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/user/Desktop/Desktop/WorkSpace/TestImage/build/TestImage.build/Debug-iphonesimulator/TestImage.build/assetcatalog_generated_info.plist -o /Users/user/Desktop/Desktop/WorkSpace/TestImage/build/Debug-iphonesimulator/TestImage.app/Info.plist36"2512DB94-7E28-4251-84E8-2FE18CAB0396-
+b2A730EB9-2D6A-4BB8-A991-7B6C71936779
+
+CProcessPCH /Users/user/Library/Developer/Xcode/DerivedData/TestImage-ccqhezdwgoicfrbfhswkhpurycel/Index/PrecompiledHeaders/TestImage-Prefix-boyxjazhnzuzkpgmhitbfpxmrecs_ast/TestImage-Prefix.pch.pch TestImage/TestImage-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/user/Library/Developer/Xcode/DerivedData/TestImage-ccqhezdwgoicfrbfhswkhpurycel/Index/PrecompiledHeaders/TestImage-Prefix-cgaxzlkipzmzshhhnzsreriqxllt_ast/TestImage-Prefix.pch.pch TestImage/TestImage-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/60/9x6_wf910nz0br0kg3s424k40000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestImage-Prefix-dltfjcszlrwtlebeivnvdynncrth/TestImage-Prefix.pch.pch TestImage/TestImage-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424948777.445766
+e424948778.440166
+r1
+xProcessPCH
+x/var/folders/60/9x6_wf910nz0br0kg3s424k40000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestImage-Prefix-dltfjcszlrwtlebeivnvdynncrth/TestImage-Prefix.pch.pch
+xTestImage/TestImage-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/user/Desktop/Desktop/WorkSpace/TestImage/TestImage/TestImage-Prefix.pch
+d/Users/user/Desktop/Desktop/WorkSpace/TestImage/Classes/Common/CommonDeal.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Precompile TestImage/TestImage-Prefix.pch300"ProcessPCH /var/folders/60/9x6_wf910nz0br0kg3s424k40000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestImage-Prefix-dltfjcszlrwtlebeivnvdynncrth/TestImage-Prefix.pch.pch TestImage/TestImage-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerbc3f72293454b941^eaae702a3454b941^---0#0#1#-19%DVTDocumentLocation2@94"file://localhost/Users/user/Desktop/Desktop/WorkSpace/TestImage/TestImage/TestImage-Prefix.pch0000000000000000^3749"ProcessPCH /var/folders/60/9x6_wf910nz0br0kg3s424k40000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestImage-Prefix-dltfjcszlrwtlebeivnvdynncrth/TestImage-Prefix.pch.pch TestImage/TestImage-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/user/Desktop/Desktop/WorkSpace/TestImage    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/user/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.1 -iquote /Users/user/Desktop/Desktop/WorkSpace/TestImage/build/TestImage.build/Debug-iphonesimulator/TestImage.build/TestImage-generated-files.hmap -I/Users/user/Desktop/Desktop/WorkSpace/TestImage/build/TestImage.build/Debug-iphonesimulator/TestImage.build/TestImage-own-target-headers.hmap -I/Users/user/Desktop/Desktop/WorkSpace/TestImage/build/TestImage.build/Debug-iphonesimulator/TestImage.build/TestImage-all-target-headers.hmap -iquote /Users/user/Desktop/Desktop/WorkSpace/TestImage/build/TestImage.build/Debug-iphonesimulator/TestImage.build/TestImage-project-headers.hmap -I/Users/user/Desktop/Desktop/WorkSpace/TestImage/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/user/Desktop/Desktop/WorkSpace/TestImage/build/TestImage.build/Debug-iphonesimulator/TestImage.build/DerivedSources/x86_64 -I/Users/user/Desktop/Desktop/WorkSpace/TestImage/build/TestImage.build/Debug-iphonesimulator/TestImage.build/DerivedSources -F/Users/user/Desktop/Desktop/WorkSpace/TestImage/build/Debug-iphonesimulator --serialize-diagnostics /var/folders/60/9x6_wf910nz0br0kg3s424k40000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestImage-Prefix-dltfjcszlrwtlebeivnvdynncrth/TestImage-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/60/9x6_wf910nz0br0kg3s424k40000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestImage-Prefix-dltfjcszlrwtlebeivnvdynncrth/TestImage-Prefix.pch.d -c /Users/user/Desktop/Desktop/WorkSpace/TestImage/TestImage/TestImage-Prefix.pch -o /var/folders/60/9x6_wf910nz0br0kg3s424k40000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestImage-Prefix-dltfjcszlrwtlebeivnvdynncrth/TestImage-Prefix.pch.pch36"D3474E3E-F1C3-4FA8-91BF-68D5F68BBC26-
+b40F4E266-496A-4E32-86BE-16A2D180CFAD
+
+CProcessPCH /var/folders/60/9x6_wf910nz0br0kg3s424k40000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestImage-Prefix-dmqfqawgplqfhpcchhmkyybaplsp/TestImage-Prefix.pch.pch TestImage/TestImage-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424948554.249829
+e424948554.826708
+r1
+xProcessPCH
+x/var/folders/60/9x6_wf910nz0br0kg3s424k40000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestImage-Prefix-dmqfqawgplqfhpcchhmkyybaplsp/TestImage-Prefix.pch.pch
+xTestImage/TestImage-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/user/Desktop/Desktop/WorkSpace/TestImage/TestImage/TestImage-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Precompile TestImage/TestImage-Prefix.pch300"ProcessPCH /var/folders/60/9x6_wf910nz0br0kg3s424k40000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestImage-Prefix-dmqfqawgplqfhpcchhmkyybaplsp/TestImage-Prefix.pch.pch TestImage/TestImage-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler9a0b404a3354b941^12a3d34a3354b941^---0#0#1#-19%DVTDocumentLocation2@94"file://localhost/Users/user/Desktop/Desktop/WorkSpace/TestImage/TestImage/TestImage-Prefix.pch0000000000000000^3749"ProcessPCH /var/folders/60/9x6_wf910nz0br0kg3s424k40000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestImage-Prefix-dmqfqawgplqfhpcchhmkyybaplsp/TestImage-Prefix.pch.pch TestImage/TestImage-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/user/Desktop/Desktop/WorkSpace/TestImage    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/user/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.1 -iquote /Users/user/Desktop/Desktop/WorkSpace/TestImage/build/TestImage.build/Debug-iphonesimulator/TestImage.build/TestImage-generated-files.hmap -I/Users/user/Desktop/Desktop/WorkSpace/TestImage/build/TestImage.build/Debug-iphonesimulator/TestImage.build/TestImage-own-target-headers.hmap -I/Users/user/Desktop/Desktop/WorkSpace/TestImage/build/TestImage.build/Debug-iphonesimulator/TestImage.build/TestImage-all-target-headers.hmap -iquote /Users/user/Desktop/Desktop/WorkSpace/TestImage/build/TestImage.build/Debug-iphonesimulator/TestImage.build/TestImage-project-headers.hmap -I/Users/user/Desktop/Desktop/WorkSpace/TestImage/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/user/Desktop/Desktop/WorkSpace/TestImage/build/TestImage.build/Debug-iphonesimulator/TestImage.build/DerivedSources/x86_64 -I/Users/user/Desktop/Desktop/WorkSpace/TestImage/build/TestImage.build/Debug-iphonesimulator/TestImage.build/DerivedSources -F/Users/user/Desktop/Desktop/WorkSpace/TestImage/build/Debug-iphonesimulator --serialize-diagnostics /var/folders/60/9x6_wf910nz0br0kg3s424k40000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestImage-Prefix-dmqfqawgplqfhpcchhmkyybaplsp/TestImage-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/60/9x6_wf910nz0br0kg3s424k40000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestImage-Prefix-dmqfqawgplqfhpcchhmkyybaplsp/TestImage-Prefix.pch.d -c /Users/user/Desktop/Desktop/WorkSpace/TestImage/TestImage/TestImage-Prefix.pch -o /var/folders/60/9x6_wf910nz0br0kg3s424k40000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestImage-Prefix-dmqfqawgplqfhpcchhmkyybaplsp/TestImage-Prefix.pch.pch36"50B5F9CD-1368-4786-B5F6-97879070169C-
+b2A730EB9-2D6A-4BB8-A991-7B6C71936779
+
+CTouch /Users/user/Desktop/Desktop/WorkSpace/TestImage/build/Debug-iphonesimulator/TestImage.app
+r0
+
